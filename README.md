@@ -23,7 +23,7 @@ I'm an IT Student passionate about building web applications and continuously ex
 - MongoDB
 - Firebase
 
-- ### 🚀 Current Goals
+### 🚀 Current Goals
 - Build real-world full-stack applications
 - Strengthen frontend and backend development skills
 - Learn software architecture and best practices
